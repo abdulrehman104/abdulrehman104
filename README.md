@@ -1,5 +1,3 @@
-![image](https://github.com/abdulrehman104/abdulrehman104/assets/130191723/dc32c34e-bb3d-497d-867b-e333225b4e15)
-
 <h1 align="center">Hi 👋, I'm AbdulRehman</h1>
 <h3 align="center">Passionate frontend developer shaping the web with creativity and code.</h3>
 
