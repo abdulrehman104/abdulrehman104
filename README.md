@@ -11,17 +11,20 @@
 
 - I’m looking to collaborate on **Front End projects**
 
-- 📝I regularly share post on LinkedIn [https://www.linkedin.com/in/abdul-rehman-671977289/](https://www.linkedin.com/in/abdul-rehman-671977289/)
+- 📝I regularly share posts on LinkedIn [https://www.linkedin.com/in/abdul-rehman-671977289/](https://www.linkedin.com/in/abdul-rehman-671977289/)
 
-- 💬 Ask me about **TypeScript, React , Talwind & Next.js**
+- 💬 Ask me about **TypeScript, React , Tailwind & Next.js**
 
 - 📫 How to reach me **rehman.abdul008844@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/https://twitter.com/codewithabdul01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/codewithabdul01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdul-rehman-671977289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdul-rehman-671977289/" height="30" width="40" /></a>
-<a href="https://instagram.com/abdul_rehman_104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul_rehman_104" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@codewithabdul01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codewithabdul01" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23056797/codewithabdul01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23056797/codewithabdul01" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/codewithabdul01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/codewithabdul01/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/abdul_rehman_104/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abdul_rehman_104/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucfzbwewugkpbmuinokb5w0q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucfzbwewugkpbmuinokb5w0q" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
