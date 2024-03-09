@@ -11,6 +11,10 @@
 
 - I’m looking to collaborate on **Front End projects**
 
+- My TypeScript projects are here [https://github.com/abdulrehman104/TypeScript-Projects](TypeScript Projects)
+
+- My Next.js projects are here [https://github.com/abdulrehman104/nextjs-projects](Next.js Projects)
+
 - 📝I regularly share posts on LinkedIn [https://www.linkedin.com/in/abdul-rehman-671977289/](https://www.linkedin.com/in/abdul-rehman-671977289/)
 
 - 💬 Ask me about **TypeScript, React , Tailwind & Next.js**
