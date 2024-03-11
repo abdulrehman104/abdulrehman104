@@ -13,7 +13,7 @@
 
 - My TypeScript projects are here [TypeScript Projects](https://github.com/abdulrehman104/TypeScript-Projects)
 
-- My Next.js projects are here [Next.js Projects](https://github.com/abdulrehman104/nextjs-projects)
+- My Next.js projects are here [Next.js Projects](https://github.com/abdulrehman104/Nextjs-projects)
 
 - 📝I regularly share posts on LinkedIn [https://www.linkedin.com/in/abdul-rehman-671977289/](https://www.linkedin.com/in/abdul-rehman-671977289/)
 
