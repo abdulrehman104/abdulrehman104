@@ -15,7 +15,7 @@
 
 - My Next.js projects are here [Next.js Projects](https://github.com/abdulrehman104/Nextjs-projects)
 
-- 📝I regularly share posts on LinkedIn [https://www.linkedin.com/in/abdul-rehman-671977289/](https://www.linkedin.com/in/abdul-rehman-671977289/)
+- 📝I regularly share posts on LinkedIn [https://www.linkedin.com/in/abdulrehman104/](https://www.linkedin.com/in/abdulrehman104/)
 
 - 💬 Ask me about **TypeScript, React , Tailwind & Next.js**
 
