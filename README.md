@@ -7,9 +7,9 @@
 
 - I’m currently learning [PIAIC (Certified Cloud Applied Generative AI Engineer (GenEng))](https://www.piaic.org/)
 
-- 🌱 I’m currently learning **React & Next.js14**
+- 🌱 I’m currently learning **Full Stack Development**
 
-- I’m looking to collaborate on **Front End projects**
+- I’m looking to collaborate on **JamsTACK projects**
 
 - My TypeScript projects are here [TypeScript Projects](https://github.com/abdulrehman104/TypeScript-Projects)
 
@@ -23,10 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/codewithabdul01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithabdul01" height="30" width="40" /></a>
+<a href="https://twitter.com/abdulrehman1044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithabdul01" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abdulrehman104/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdul-rehman-671977289/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23056797/codewithabdul01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="codewithabdul01" height="30" width="40" /></a>
-<a href="https://fb.com/codewithabdul01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codewithabdul01" height="30" width="40" /></a>
+<a href="https://www.facebook.com/abdulrehman1104/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codewithabdul01" height="30" width="40" /></a>
 <a href="https://instagram.com/abdul_rehman_104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul_rehman_104" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCFZBWeWuGKpbmuInOkb5W0Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codewithabdul01" height="30" width="40" /></a>
 </p>
