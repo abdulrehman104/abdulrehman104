@@ -1,51 +1,45 @@
-<h1 align="center">Hi 👋, I'm AbdulRehman</h1>
-<h3 align="center">Passionate frontend developer shaping the web with creativity and code.</h3>
+# Hi there, I'm [Your Name]! 👋
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+![Banner Image](your_banner_image_url_here)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrehman104&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrehman104" /> </p>
+## About Me 🚀
 
-- I’m currently learning [PIAIC (Certified Cloud Applied Generative AI Engineer (GenEng))](https://www.piaic.org/)
+I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
+- 🔭 Working on: **[current projects or side-projects]**
+- 🌍 Languages: **[programming languages and human languages you speak]**
+- 📫 How to reach me: **[your email address or other contact information]**
+- ⚡ Fun fact: **[a fun fact about yourself]**
 
-- I’m looking to collaborate on **JamsTACK projects**
+## My Skills 🧠
 
-- My TypeScript projects are here [TypeScript Projects](https://github.com/abdulrehman104/TypeScript-Projects)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-- My Next.js projects are here [Next.js Projects](https://github.com/abdulrehman104/Nextjs-projects)
+*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
-- 📝I regularly share posts on LinkedIn [https://www.linkedin.com/in/abdulrehman104/](https://www.linkedin.com/in/abdulrehman104/)
+## Featured Projects 💻
 
-- 💬 Ask me about **TypeScript, React , Tailwind & Next.js**
+### [Project 1 Title](project_1_link)
 
-- 📫 How to reach me **rehman.abdul008844@gmail.com**
+![Project 1 Screenshot](project_1_screenshot_url)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abdulrehman1044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithabdul01" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abdulrehman104/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdul-rehman-671977289/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/abdulrehman1104/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codewithabdul01" height="30" width="40" /></a>
-<a href="https://instagram.com/abdul_rehman_104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul_rehman_104" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCFZBWeWuGKpbmuInOkb5W0Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codewithabdul01" height="30" width="40" /></a>
-</p>
+**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+### [Project 2 Title](project_2_link)
 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+![Project 2 Screenshot](project_2_screenshot_url)
 
-</p>
+**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrehman104&show_icons=true&locale=en&layout=compact" alt="abdulrehman104" /></p>
+## Get in Touch 📬
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrehman104&show_icons=true&locale=en" alt="abdulrehman104" /></p>
+- **[Personal Website / Blog]**(your_website_or_blog_link)
+- **[LinkedIn]**(your_linkedin_profile_link)
+- **[Twitter]**(your_twitter_profile_link)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehman104&" alt="abdulrehman104" /></p>
+
